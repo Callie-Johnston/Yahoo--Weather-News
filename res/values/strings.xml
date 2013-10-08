@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather and News</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="city_state">City, State</string>
+    <string name="buttonString">Get Weather/News</string>
+    <string name="notAvailable">N/A</string>
+    <string name="yahooWeather">Yahoo! Weather</string>
+    <string name="update">Update Date/Time</string>
+    <string name="temperature">Current Temperature {F}</string>
+    <string name="condition">Conditions</string>
+    <string name="wind">Wind Chill/Wind Speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="forecast">Forecast:</string>
+    <string name="news">Yahoo! News</string>
+
+</resources>
